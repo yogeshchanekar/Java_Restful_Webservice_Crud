@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:46:33 +0530] "GET /RESTfulCRUD/rest/employees HTTP/1.1" 200 472 http-bio-8080-exec-1 124
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:47:37 +0530] "GET /RESTfulCRUD/rest/employees HTTP/1.1" 200 276 http-bio-8080-exec-4 17
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:48:09 +0530] "GET /restcrud/rest/ HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:48:18 +0530] "GET /restcrud/rest/ HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:48:24 +0530] "GET /restcrud/rest/employees HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:49:42 +0530] "GET /RESTfulCRUD/rest/employees HTTP/1.1" 200 472 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:51:24 +0530] "GET /RESTfulCRUD/rest/Em01 HTTP/1.1" 404 - http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:51:39 +0530] "GET /RESTfulCRUD/rest/Emp01 HTTP/1.1" 404 - http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:53:41 +0530] "GET /RESTfulCRUD/rest/employees HTTP/1.1" 200 472 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:53:53 +0530] "GET /RESTfulCRUD/rest/Emp01 HTTP/1.1" 404 - http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:23:59:56 +0530] "GET /RESTfulCRUD/rest/employees/E01 HTTP/1.1" 204 - http-bio-8080-exec-1 70
