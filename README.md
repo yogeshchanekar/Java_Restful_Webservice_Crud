@@ -22,12 +22,12 @@ http://localhost:8080/restcrud/rest/employees/Emp02
 Note:- 
 If you want data in json format just remove the MediaType.APPLICATION_XML from EmployeeeService.java file.
 
-==================================================================================================================================
+==================================================================================================
 
 
 Optional steps to create maven project in esclipse
 
-1. click on File-New-Maven Project-Use default worlspace location(secound option)-Next
+1.click on File-New-Maven Project-Use default worlspace location(secound option)-Next
 
 2.Catlog(select internal)-filter(Maven-archetype-webapp)-Next
 
