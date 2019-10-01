@@ -1,6 +1,6 @@
 # Java_Restful_Webservice_Crud
 
-This project is created in esclipse IDE (Maven project) and to test restful web service you need to install Advanced Rest Client
+This project is created in eclipse IDE (Maven project) and to test restful web service you need to install Advanced Rest Client
 
 Link for Google chrome = https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo
 
@@ -25,7 +25,7 @@ If you want data in json format just remove the MediaType.APPLICATION_XML from E
 ==================================================================================================
 
 
-Optional steps to create maven project in esclipse
+Optional steps to create maven project in eclipse
 
 1.click on File-New-Maven Project-Use default worlspace location(secound option)-Next
 
